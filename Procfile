@@ -1,1 +1,1 @@
-worker: node index.js install
+web: node index.js install
