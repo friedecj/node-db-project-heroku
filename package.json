@@ -4,7 +4,8 @@
     "description": "A database project for your auth needs",
     "main": "index.js",
     "scripts": {
-        "test": "mocha"
+        "test": "mocha",
+        "install": "node index.js install"
     },
     "author": "Rob Conery",
     "license": "New BSD",
